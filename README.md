@@ -1,14 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!%20I'm%20Jun_Yeong&fontSize=90)
 
 
-
-
 ## 👨🏻‍💻 About Me
-### Android Developer
+### Backend Developer
 
 ✉️ E-Mail : sgo722@naver.com
-
-📝 Notion : https://www.notion.so/dd5a55512d564463b474742617cab577?v=52d3c158cd5f4501bb82514b0c10c477
 
 ## 🛠️ Tech Stack 
 ### Main Languages & FrameWork
