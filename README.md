@@ -58,7 +58,7 @@ Test       k6 · nGrinder
 <summary>AI Agent 기반 개발 자동화</summary>
 
 - 컨텍스트 스위칭 비용 및 반복 작업(Git Issue·PR·마이그레이션 검증 등)으로 하루 1-2시간 소모
-- `tmux + git worktree`로 병렬 개발 환경 구축, 프롬프트 엔지니어링으로 AI 응답 정확도 60% → **95%** 달성
+- `tmux + git worktree`로 병렬 개발 환경 구축, 프롬프트 엔지니어링으로 AI 응답 정확도 향상
 - 워크플로우 템플릿화(`/pr-create`, `/test-fix`)와 GitHub Actions + AI 테스트 루프로 자동화 구축
 - **컨텍스트 스위칭 0초 · PR 생성 80% 단축 · 화면 검증 시간 83% 단축**
 
