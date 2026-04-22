@@ -3,8 +3,8 @@
 > 반복적인 프로세스 개선과 정교한 기능 설계에 관심이 많습니다.  
 > AI Agent를 활용한 자동화 워크플로우 구축, 결제 시스템 안정성 개선, 비즈니스 이해를 바탕으로 기능 안정성까지 고민하는 개발자입니다.
 
-# 📄 **[이력서 미리보기](./resume.pdf)**
-# 📁 **[포트폴리오 미리보기](./potfolio.pdf)**
+## 📄 **[이력서 다운로드](https://github.com/sgo722/sgo722/raw/main/resume.pdf)**
+## 📁 **[포트폴리오 다운로드](https://github.com/sgo722/sgo722/raw/main/potfolio.pdf)**
 
 ---
 
